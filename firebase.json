@@ -3,20 +3,13 @@
     "rules": "database.rules.json"
   },
   "hosting": {
-    "public": "./build",
+    "public": "build",
     "cleanUrls": true,
     "rewrites": [
       {
-        "source": "**/*",
+        "source": "**",
         "destination": "/index.html"
       }
-    ],
-    "ignore": [
-      "/test/**",
-      "bower.json",
-      "database.rules.json",
-      "firebase.json",
-      "README.md"
     ]
   }
 }
