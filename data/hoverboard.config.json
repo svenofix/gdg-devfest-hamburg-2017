@@ -28,7 +28,7 @@
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
-  "hashtag": "dfua",
+  "hashtag": "devfestHH",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
@@ -59,23 +59,28 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDG Hamburg Android",
+      "url": "https://twitter.com/androidhh"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "114226021900650933814",
+      "url": "https://plus.google.com/114226021900650933814"
     },
     {
-      "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "name": "gplus",
+      "nickname": "103545472040309738031",
+      "url": "https://plus.google.com/103545472040309738031"
     },
     {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "name": "gplus",
+      "nickname": "107859748046093089218",
+      "url": "https://plus.google.com/107859748046093089218"
+    },
+    {
+      "name": "twitter",
+      "nickname": "Women Techmakers Hamburg",
+      "url": "https://twitter.com/WTM_Hamburg"
     }
   ],
   "location": {
@@ -99,12 +104,12 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://photos.google.com/share/AF1QipM13gQ4e52dHP8J7o7qwUflZN85vbsFFImss9hLe3-OgMehdQ_C_kKP71UIETeuyA?key=b2ZxeUpfYlM0WHRGdldLaGxGeWdwLWRBSjY3Ukl3",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/dfhh_2015_3.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/dfhh_2015_2.jpg",
+        "/images/backgrounds/dfhh_2015_1.jpg"
       ]
     }
   },
