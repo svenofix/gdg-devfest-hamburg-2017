@@ -84,18 +84,18 @@
     }
   ],
   "location": {
-    "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "apiKey": "AIzaSyByLpL2bfgEmDCP7LxBLDNPxjjiBFdZadk",
+    "name": "Betahaus - coworking Hamburg",
+    "address": "Eifflerstraße 43, 22769 Hamburg, Germany",
+    "link": "https://hamburg.betahaus.de",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 53.5625205,
+      "longitude": 9.9576136,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 53.5625205,
+      "longitude": 9.9576136
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
