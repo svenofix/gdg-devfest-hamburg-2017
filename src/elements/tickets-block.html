@@ -69,23 +69,24 @@
         <h4 class="heading">{$ ticketsTitle $}</h4>
       </div>
       <div class="tickets-wrapper">
-        <template is="dom-repeat" items="[[app.tickets.elements]]" as="ticket">
-          <ticket-element
-            type="[[ticket.name]]"
-            price="[[ticket.price]]"
-            currency="[[ticket.currency]]"
-            starts="[[ticket.starts]]"
-            ends="[[ticket.ends]]"
-            info="[[ticket.info]]"
-            sold-out="[[ticket.soldOut]]",
-            sold-out-text="{$ soldOutTickets $}">
-          </ticket-element>
-        </template>
-      </div>
-      <div class="details">{$ ticketsDetails $}</div>
-      <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
-        <paper-button class="buy-button" raised>{$ buyTicket $}</paper-button>
-      </a>
+        <p>To be announced...</p>
+        <!--<template is="dom-repeat" items="[[app.tickets.elements]]" as="ticket">-->
+          <!--<ticket-element-->
+            <!--type="[[ticket.name]]"-->
+            <!--price="[[ticket.price]]"-->
+            <!--currency="[[ticket.currency]]"-->
+            <!--starts="[[ticket.starts]]"-->
+            <!--ends="[[ticket.ends]]"-->
+            <!--info="[[ticket.info]]"-->
+            <!--sold-out="[[ticket.soldOut]]",-->
+            <!--sold-out-text="{$ soldOutTickets $}">-->
+          <!--</ticket-element>-->
+        <!--</template>-->
+      <!--</div>-->
+      <!--<div class="details">{$ ticketsDetails $}</div>-->
+      <!--<a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">-->
+        <!--<paper-button class="buy-button" raised>{$ buyTicket $}</paper-button>-->
+      <!--</a>-->
     </div>
 
   </template>
