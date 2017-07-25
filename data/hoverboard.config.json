@@ -40,18 +40,6 @@
       "permalink": "/"
     },
     {
-      "route": "blog",
-      "permalink": "/blog/"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers/"
-    },
-    {
       "route": "team",
       "permalink": "/team/"
     }
@@ -104,7 +92,7 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://photos.google.com/share/AF1QipM13gQ4e52dHP8J7o7qwUflZN85vbsFFImss9hLe3-OgMehdQ_C_kKP71UIETeuyA?key=b2ZxeUpfYlM0WHRGdldLaGxGeWdwLWRBSjY3Ukl3",
+    "albumUrl": "https://goo.gl/photos/5uTMHx6ZX7CtCEeu7",
     "photos": {
       "big": "/images/backgrounds/dfhh_2015_3.jpg",
       "small": [
