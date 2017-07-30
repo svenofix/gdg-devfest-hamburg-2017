@@ -1,10 +1,10 @@
 {
-  "title": "GDG DevFest Season 2017",
-  "description": "The biggest Google tech conference in Hamburg carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
+  "title": "GDG DevFest Hamburg 2017",
+  "description": "The biggest Google tech conference in Hamburg carefully crafted for you by the GDG community!",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "November 25-26, 2017",
   "locationAddressShort": "Hamburg, Germany",
-  "motto": "Be a GDG. Be a Hero!",
+  "motto": "by the community, for the community",
   "playIcon": "See how it was in 2016",
   "c4p": "Become a speaker",
   "buyTicket": "Buy ticket",
@@ -25,17 +25,17 @@
   "becomePartner": "Become a partner",
   "featuredVideosTitle": "Featured #DFUA '15 Sessions",
   "featuredVideosViewAll": "View all videos",
-  "featuredPeopleTitle": "Rockstar Speakers",
-  "featuredPeopleViewAll": "View all speakers",
+  "featuredPeopleTitle": "Some speakers",
+  "featuredPeopleViewAll": "View all",
   "action": "See how it was",
   "locationTitle": "Betahaus - coworking Hamburg",
-  "locationDescription": "",
+  "locationDescription": "The home of Hamburg's digital and creative crowd",
   "locationAddress": "Eifflerstraße 43, 22769 Hamburg, Germany",
   "organizerTitle": "Organizer",
-  "aboutOrganizers": "The GDGs of Hamburg, namely GDG Hamburg, GDG Hamburg Android, GDG Hamburg Golang and the Women Techmakers Hamburg are the organizers of DevFest Hamburg.",
+  "aboutOrganizers": "DevFest Hamburg 2017 is organized by the GDGs of Hamburg: GDG Hamburg, GDG Hamburg Android and GDG Hamburg Golang",
   "openTeamPage": "Open team page",
-  "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+  "whatIsGdg": "What is a GDG?",
+  "aboutGdg": "Google Developers Groups (GDG) - are open, volunteer-based communities for developers interested in Google's developer technologies.",
   "readMore": "Read more",
   "copyLink": "Copy link",
   "filteredBy": "filtered by",
@@ -84,12 +84,8 @@
       "links": [
         {
           "text": "Partnership Proposition",
-          "url": "https://docs.google.com/document/d/11QIt7ikB5db2oijk4UqRJVoBHb4iXfvFVMgpQIAAbME",
-          "newTab": true
-        },
-        {
-          "text": "Media Kit",
-          "url": "https://drive.google.com/folderview?id=0B4BDj582p16_TzVGZFplSFBKaGM",
+          "url": "https://goo.gl/66tBbF",
+
           "newTab": true
         }
       ]
@@ -104,7 +100,7 @@
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> The GDGs and Women Techmakers of Hamburg are open, volunteer-based geek communities creating exciting projects and events to share their knowledge and passion about Google technologies.",
+  "teamPageText": "The GDGs of Hamburg are open, volunteer-based geek communities creating events to share their knowledge and passion about Google technologies.",
   "statistics": [
     {
       "counter": 300,
