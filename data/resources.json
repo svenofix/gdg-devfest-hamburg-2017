@@ -4,7 +4,7 @@
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "November 25-26, 2017",
   "locationAddressShort": "Hamburg, Germany",
-  "motto": "by the community, for the community",
+  "motto": "Driven by and for the community",
   "playIcon": "See how it was in 2016",
   "c4p": "Become a speaker",
   "buyTicket": "Buy ticket",
@@ -100,18 +100,18 @@
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "The GDGs of Hamburg are open, volunteer-based geek communities creating events to share their knowledge and passion about Google technologies.",
+  "teamPageText": "The GDGs of Hamburg are open, volunteer-based developer communities creating events to share their knowledge and passion about Google technologies.",
   "statistics": [
     {
-      "counter": 300,
-      "caption": "Attendees"
+      "counter": 250,
+      "caption": "Attendees per day"
     },
     {
       "counter": 2,
       "caption": "Days"
     },
     {
-      "counter": 50,
+      "counter": "28+",
       "caption": "Sessions"
     },
     {
