@@ -1,6 +1,6 @@
 {
   "title": "GDG DevFest Hamburg 2017",
-  "description": "The biggest Google tech conference in Hamburg carefully crafted for you by the GDG community!",
+  "description": "The biggest Google tech conference in northern Germany, carefully crafted for you by the GDG community!",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "November 25-26, 2017",
   "locationAddressShort": "Hamburg, Germany",
@@ -100,7 +100,7 @@
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "The GDGs of Hamburg are open, volunteer-based developer communities creating events to share their knowledge and passion about Google technologies.",
+  "teamPageText": "The GDGs of Hamburg are open, volunteer-based developer communities creating events to create exchange and share their knowledge about Google technologies.",
   "statistics": [
     {
       "counter": 250,
