@@ -4,7 +4,7 @@
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
     "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "dev": "UA-43643469-8"
   },
   "organizer": {
     "name": "GDG Hamburg",
@@ -17,7 +17,7 @@
   },
   "firebase": {
     "name": "gdg-hamburg",
-    "domain": "gdg-hamburg-29729.firebaseapp.com",
+    "domain": "hamburg.devfest.de",
     "database": "https://gdg-hamburg-29729.firebaseio.com",
     "api": "AIzaSyBiQjbpXoaXPFbMoYBs-mwMUeb_do2n2-c",
     "userSessionsPath": "/userSessions",
@@ -31,7 +31,8 @@
   "hashtag": "devfestHH",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "partnershipProposition": "https://goo.gl/66tBbF",
+  "callForPapers": "https://goo.gl/c7BK25",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "enableSessionsRating": true,
   "navigation": [
@@ -94,10 +95,10 @@
   "gallery": {
     "albumUrl": "https://goo.gl/photos/5uTMHx6ZX7CtCEeu7",
     "photos": {
-      "big": "/images/backgrounds/dfhh_2015_3.jpg",
+      "big": "/images/backgrounds/dfhh16_1.jpg",
       "small": [
-        "/images/backgrounds/dfhh_2015_2.jpg",
-        "/images/backgrounds/dfhh_2015_1.jpg"
+        "/images/backgrounds/dfhh16_4.jpg",
+        "/images/backgrounds/dfhh16_2.jpg"
       ]
     }
   },
