@@ -17,7 +17,7 @@
   },
   "firebase": {
     "name": "gdg-hamburg",
-    "domain": "gdg-hamburg-29729.firebaseapp.com",
+    "domain": "hamburg.devfest.de",
     "database": "https://gdg-hamburg-29729.firebaseio.com",
     "api": "AIzaSyBiQjbpXoaXPFbMoYBs-mwMUeb_do2n2-c",
     "userSessionsPath": "/userSessions",
