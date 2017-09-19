@@ -1,0 +1,154 @@
+{
+  "url": "https://hamburg.devfest.de/",
+  "startDate": "2016-25-09T09:00:00+03:00",
+  "endDate": "2016-26-10T19:00:00+03:00",
+  "analytics": {
+    "prod": "UA-81632592-1",
+    "dev": "UA-81632592-1"
+  },
+  "organizer": {
+    "name": "GDG Hamburg",
+    "twitter": "gdghamburg"
+  },
+  "webapp": {
+    "shortName": "DevFest",
+    "themeColor": "#F57C00",
+    "backgroundColor": "#F57C00"
+  },
+  "firebase": {
+    "name": "gdg-hamburg",
+    "domain": "hamburg.devfest.de",
+    "database": "https://gdg-hamburg-29729.firebaseio.com",
+    "api": "AIzaSyBiQjbpXoaXPFbMoYBs-mwMUeb_do2n2-c",
+    "userSessionsPath": "/userSessions",
+    "ratingsPath": "/ratings",
+    "indexedDbSession": "hoverboard"
+  },
+  "dateFormat": {
+    "locale": "en-US"
+  },
+  "hashtag": "devfestHH",
+  "partnershipProposition": "https://goo.gl/66tBbF",
+  "callForPapers": "https://goo.gl/c7BK25",
+  "enableSessionsRating": true,
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    }
+  ],
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "GDG Hamburg Android",
+      "url": "https://twitter.com/androidhh"
+    },
+    {
+      "name": "gplus",
+      "nickname": "114226021900650933814",
+      "url": "https://plus.google.com/114226021900650933814"
+    },
+    {
+      "name": "gplus",
+      "nickname": "103545472040309738031",
+      "url": "https://plus.google.com/103545472040309738031"
+    },
+    {
+      "name": "gplus",
+      "nickname": "107859748046093089218",
+      "url": "https://plus.google.com/107859748046093089218"
+    },
+    {
+      "name": "twitter",
+      "nickname": "Women Techmakers Hamburg",
+      "url": "https://twitter.com/WTM_Hamburg"
+    }
+  ],
+  "location": {
+    "apiKey": "AIzaSyByLpL2bfgEmDCP7LxBLDNPxjjiBFdZadk",
+    "name": "Betahaus - coworking Hamburg",
+    "address": "Eifflerstraße 43, 22769 Hamburg, Germany",
+    "link": "https://hamburg.betahaus.de",
+    "pointer": {
+      "latitude": 53.5625205,
+      "longitude": 9.9576136,
+      "zoom": 15
+    },
+    "mapCenter": {
+      "latitude": 53.5625205,
+      "longitude": 9.9576136
+    },
+    "images": [
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpg"
+    ]
+  },
+  "gallery": {
+    "albumUrl": "https://goo.gl/photos/8YqBFtpvQD8Vtce29",
+    "photos": {
+      "big": "/images/backgrounds/dfhh16_1.jpg",
+      "small": [
+        "/images/backgrounds/dfhh16_4.jpg",
+        "/images/backgrounds/dfhh16_2.jpg"
+      ]
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Home",
+      "headerSettings": {
+        "backgroundColor": "#FF9800",
+        "backgroundImage": "/images/backgrounds/devfest_header_17_3.jpg",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "speakers": {
+      "title": "Speakers",
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "title": "Schedule",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "title": "Team",
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "title": "Cod of Conduct",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "tickets": {
+      "title": "Buy Tickets",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  }
+}
