@@ -1,0 +1,119 @@
+{
+  "title": "GDG DevFest Hamburg 2017",
+  "description": "The biggest Google tech conference in northern Germany, carefully crafted for you by the GDG community!",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "dates": "November 25-26, 2017",
+  "locationAddressShort": "Hamburg, Germany",
+  "motto": "Driven by and for the community!",
+  "playIcon": "See how it was in 2016",
+  "c4p": "Become a speaker",
+  "buyTicket": "Buy ticket",
+  "backToTop": "Back to top",
+  "subscribe": "Subscribe",
+  "yourEmail": "Your email",
+  "subscribeNote": "No spam, only the latest news and updates!",
+  "contactUs": "Contact us",
+  "ticketsTitle": "Tickets",
+  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+  "close": "Close",
+  "soldOutTickets": "Sold Out",
+  "socialTitle": "Social",
+  "socialMotto": "Add to circles, like, follow or connect with us on",
+  "beforeHashtag": "What's up",
+  "clickToViewPhotos": "Click here to view more photos",
+  "partners": "Partners",
+  "becomePartner": "Become a partner",
+  "featuredPeopleTitle": "Rockstar Speakers",
+  "featuredPeopleViewAll": "View all speakers",
+  "action": "See how it was",
+  "locationTitle": "Betahaus - coworking Hamburg",
+  "locationDescription": "The home of Hamburg's digital and creative crowd.",
+  "locationAddress": "Eifflerstraße 43, 22769 Hamburg, Germany",
+  "organizerTitle": "Organizer",
+  "aboutOrganizers": "DevFest Hamburg 2017 is organized by the GDGs of Hamburg: GDG Hamburg, GDG Hamburg Android and GDG Hamburg Golang.",
+  "openTeamPage": "Open team page",
+  "whatIsGdg": "What is GDG?",
+  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+  "readMore": "Read more",
+  "copyLink": "Copy link",
+  "filteredBy": "filtered by",
+  "clearAll": "Clear all",
+  "filter": "Filter",
+  "latestNews": "Latest news",
+  "continueReading": "Continue reading",
+  "viewPresentation": "View presentation",
+  "viewVideo": "View video",
+  "skills": "Skills",
+  "share": "Share",
+  "shareWith": "Share with",
+  "signIn": "Sign in",
+  "signOut": "Sign out",
+  "mySchedule": "My Schedule",
+  "browseMore": "Browse more events",
+  "youShouldSignInSessions": "Sign in to save sessions",
+  "youShouldSignInRating": "Sign in to rate sessions",
+  "offlineMessage": "You are offline",
+  "removedFromSchedule": "Removed from My Schedule",
+  "addedToSchedule": "Added to My Schedule",
+  "rateSession": "Rate session",
+  "footerBlocks": [
+    {
+      "title": "For visitors",
+      "links": [
+        {
+          "text": "Team",
+          "url": "/team/",
+          "newTab": false
+        },
+        {
+          "text": "Code of Conduct",
+          "url": "/cod/",
+          "newTab": false
+        },
+        {
+          "text": "Google Developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "For Partners",
+      "links": [
+        {
+          "text": "Partnership Proposition",
+          "url": "https://goo.gl/66tBbF",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "gdghhandroid@gmail.com",
+        "url": "mailto:gdghhandroid@gmail.com"
+      }
+    ]
+  },
+  "teamPageTitle": "Team",
+  "teamPageText": "The GDGs of Hamburg are open, volunteer-based developer communities creating events to create exchange and share their knowledge about Google technologies.",
+  "statistics": [
+    {
+      "counter": 250,
+      "caption": "Attendees per day"
+    },
+    {
+      "counter": 2,
+      "caption": "Days"
+    },
+    {
+      "counter": "28+",
+      "caption": "Sessions"
+    },
+    {
+      "counter": 2,
+      "caption": "Tracks"
+    }
+  ]
+}

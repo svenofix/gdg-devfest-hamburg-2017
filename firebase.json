@@ -1,0 +1,25 @@
+{
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "hosting": {
+    "public": "build",
+    "cleanUrls": true,
+    "ignore": [
+      "bower.json",
+      "database.rules.json",
+      "firebase.json",
+      "README.md"
+    ],
+    "rewrites": [
+      {
+        "source": "!/__/**",
+        "destination": "/index.html"
+      },
+      {
+        "source": "**/!(*.js|*.html|*.css|*.json|*.svg|*.png|*.jpg|*.jpeg)",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
