@@ -103,7 +103,7 @@
       "title": "Home",
       "headerSettings": {
         "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/devfest_header_17_3.jpg",
+        "backgroundImage": "/images/backgrounds/dfhh_header.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "hideLogo": true,
