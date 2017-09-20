@@ -74,13 +74,13 @@
     "address": "Eifflerstraße 43, 22769 Hamburg, Germany",
     "link": "https://hamburg.betahaus.de",
     "pointer": {
-      "latitude": 53.5625205,
-      "longitude": 9.9576136,
-      "zoom": 15
+      "latitude": 53.5625461,
+      "longitude": 9.9598649,
+      "zoom": 14
     },
     "mapCenter": {
-      "latitude": 53.5625205,
-      "longitude": 9.9576136
+      "latitude": 53.56215101,
+      "longitude": 9.9679759
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -103,7 +103,7 @@
       "title": "Home",
       "headerSettings": {
         "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/devfest_header_17_3.jpg",
+        "backgroundImage": "/images/backgrounds/dfhh_header.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "hideLogo": true,
