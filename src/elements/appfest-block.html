@@ -1,0 +1,105 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+
+<link rel="import" href="../../bower_components/iron-flex-layout/iron-flex-layout.html">
+
+<link rel="import" href="../../bower_components/paper-button/paper-button.html">
+
+<link rel="import" href="../styles/shared-styles.html">
+
+
+<dom-module id="appfest-block">
+
+  <template>
+
+    <style include="shared-styles">
+      :host {
+        --iron-icon-fill-color: var(--text-primary-color);
+        --paper-card-background-color: #FFFFFF;
+        display: block;
+        background: var(--firebase-blue);
+        color: var(--text-primary-color);
+        text-align: center;
+      }
+
+      .appfest-wrapper {
+        @apply(--layout-horizontal);
+        @apply(--layout-wrap);
+        @apply(--layout-center-justified);
+      }
+
+      ticket-element {
+        margin: 15px;
+      }
+
+      paper-button {
+        font-size: 0.9em;
+      }
+
+      .heading {
+          color: white;
+      }
+
+      .details {
+        margin: 10px auto 0;
+        font-size: 18px;
+        color: white;
+        max-width: 600px;
+      }
+
+      .buy-button {
+        margin-top: 30px;
+        background:var(--firebase-yellow);
+        color: var(--primary-text-color);
+      }
+
+      paper-dialog {
+        background: #fff;
+        color: var(--primary-text-color);
+      }
+
+      paper-dialog paper-button {
+        color: var(--default-primary-color);
+      }
+
+      @media (min-width: 601px) {
+        ticket-element {
+          max-width: 350px;
+        }
+      }
+    </style>
+
+    <div class="container">
+      <div class="block-header">
+          <img src="/images/logos/firebase-180.png" />
+        <h3 class="heading">Firebase AppFest</h3>
+      </div>
+      
+      <div class="details">Join the AppFest and build an app in a day mentored by experts!</div>
+      <a href="[[app.tickets.url]]" rel="noopener noreferrer" on-tap="_trackInfoClick">
+        <paper-button class="buy-button" raised>More Info</paper-button>
+      </a>
+    </div>
+
+  </template>
+
+  <script>
+    (function () {
+      'use strict';
+
+      Polymer({
+        is: 'appfest-block',
+
+        ready: function () {
+          HOVERBOARD.Elements.Tickets = this
+        },
+
+        _trackInfoClick: function (e) {
+          HOVERBOARD.Analytics.trackEvent('appfest', 'info_click', e.currentTarget.href);
+        }
+
+      });
+
+    }());
+  </script>
+
+</dom-module>

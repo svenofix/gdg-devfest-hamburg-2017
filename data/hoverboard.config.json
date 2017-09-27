@@ -37,6 +37,10 @@
       "permalink": "/"
     },
     {
+      "route": "appfest",
+      "permalink": "/appfest/"
+    },
+    {
       "route": "team",
       "permalink": "/team/"
     }
@@ -110,6 +114,15 @@
         "minHeight": "360px"
       }
     },
+    "appfest": {
+      "title": "Firebase AppFest",
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/function_code.png",
+        "backgroundColor": "#ffcb2b",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
     "speakers": {
       "title": "Speakers",
       "headerSettings": {
@@ -129,13 +142,14 @@
     "team": {
       "title": "Team",
       "headerSettings": {
+        "backgroundImage": "/images/backgrounds/team2.jpg",
         "backgroundColor": "#009688",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "cod": {
-      "title": "Cod of Conduct",
+      "title": "Code of Conduct",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",

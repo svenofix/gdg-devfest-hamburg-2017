@@ -3,6 +3,7 @@
   "shell": "src/hoverboard-app.html",
   "fragments": [
     "src/pages/cod-page.html",
+    "src/pages/appfest-page.html",
     "src/pages/schedule-page.html",
     "src/pages/speakers-page.html",
     "src/pages/team-page.html"
