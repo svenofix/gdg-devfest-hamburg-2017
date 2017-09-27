@@ -33,7 +33,7 @@
   "aboutOrganizers": "DevFest Hamburg 2017 is organized by the GDGs of Hamburg: GDG Hamburg, GDG Hamburg Android and GDG Hamburg Golang.",
   "openTeamPage": "Open team page",
   "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+  "aboutGdg": "Google Developers Groups (GDG) are open and volunteer-based communities creating events to exchange and share knowledge about Google technologies",
   "readMore": "Read more",
   "copyLink": "Copy link",
   "filteredBy": "filtered by",
@@ -97,11 +97,11 @@
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "The GDGs of Hamburg are open, volunteer-based developer communities creating events to create exchange and share their knowledge about Google technologies.",
+  "teamPageText": "The GDGs of Hamburg are open, volunteer-based developer communities creating events to exchange and share knowledge about Google technologies.",
   "statistics": [
     {
-      "counter": 500,
-      "caption": "Attendees"
+      "counter": 250,
+      "caption": "Attendees per day"
     },
     {
       "counter": 2,
