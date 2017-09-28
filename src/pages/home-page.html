@@ -9,6 +9,7 @@
 {% endif %}
 <link rel="import" href="../elements/about-block.html">
 <link rel="import" href="../elements/tickets-block.html">
+<link rel="import" href="../elements/appfest-block.html">
 <link rel="import" href="../elements/footer-block.html">
 {% if gallery %}
   <link rel="import" href="../elements/photo-block.html">
@@ -31,6 +32,7 @@
       <photo-block app="{{app}}" cascaded></photo-block>
     {% endif %}
     <tickets-block app="{{app}}" cascaded></tickets-block>
+    <appfest-block app="{{app}}" cascaded></appfest-block>
     <map-block app="{{app}}" selected="{{selected}}" cascaded></map-block>
     <logos-block app="{{app}}" cascaded></logos-block>
     <footer-block app="{{app}}" cascaded></footer-block>
