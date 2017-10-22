@@ -126,6 +126,7 @@
     "speakers": {
       "title": "Speakers",
       "headerSettings": {
+        "backgroundImage": "/images/backgrounds/background_speakers_2.jpg",
         "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
