@@ -182,7 +182,8 @@
             <ul class="session-meta">
               <li hidden$="[[!session.language]]">[[session.language]]</li>
               <li hidden$="[[!session.complexity]]">[[session.complexity]]</li>
-              <li hidden$="[[!session.track.title]]">[[session.track.title]]</li>
+              <li hidden$="[[!_shouldShowSessionTrack(session)]]">[[_getSessionTrackTitle(session)]]</li>
+              <!--<li hidden$="[[!session.track.title]]">[[session.track.title]]</li>-->
             </ul>
           </div>
 
@@ -318,6 +319,17 @@
 
         _hasBottomMeta: function (session) {
           return session.tags && session.tags.length || session.presentation || session.videoId;
+        },
+
+        _shouldShowSessionTrack: function (session) {
+          return "title" in session.track || "trackTitle" in session;
+        },
+
+        _getSessionTrackTitle: function (session) {
+          if ("trackTitle" in session) {
+            return session.trackTitle;
+          }
+          return session.track.title;
         }
       });
 
