@@ -14,7 +14,7 @@ Start the day by learning about Firebase and Cloud Functions. Then put it into p
 
 
 <div style="margin-top:4em; margin-bottom:1em;"><img src="/images/ic_basics.png" style="float:left; display: inline-block;"/><h1 style="margin-left:1.8em">Basics</h1></div>
- - **26th of November, 6 hours of hacking, detailed agenda [here](/schedule/day2/)** 
+ - **26th of November, 6 hours of hacking, detailed agenda [here](/schedule/day2/)**
  - **Teams may be 1 to 4 people**
  - **bring your own laptop + power cord**
  - we'll take care of room, desk + chair, power + connectivity, food + supplies
@@ -24,7 +24,7 @@ Start the day by learning about Firebase and Cloud Functions. Then put it into p
 
 
 <div style="margin-top:4em; margin-bottom:1em;"><img src="/images/ic_verified.png" style="float:left; display: inline-block;"/><h1 style="margin-left:1.8em">Rules</h1></div>
-To take part in the competition and win prices you need to comply with the following rules:
+To take part in the competition and win prizes you need to comply with the following rules:
 
  - **New creation** - no ports of existing apps
  - **Make use of Firebase** - the more, the better
