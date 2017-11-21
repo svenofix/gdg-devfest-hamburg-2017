@@ -68,6 +68,7 @@ Crash Reporting and Analytics don't count toward number of components!
 
  - ** 4 x [Google Pixel 2](https://store.google.com/de/product/pixel_2)**
 
+<img style="margin-top:1em;" src="/images/Firebase_AppFest_prizes.jpg"/>
 
 ----------
 ... a **Firebase Appfest T-Shirt** and lots of other Firebase SWAG **for everyone hacking** :D
