@@ -10,11 +10,11 @@ Start the day by learning about Firebase and Cloud Functions. Then put it into p
 
 
 
-<img  style="margin-top:4em;" src="/images/Firebase_AppFest_Hamburg_650.png"/>
+<img style="margin-top:4em;" src="/images/Firebase_AppFest_Hamburg_650.png"/>
 
 
 <div style="margin-top:4em; margin-bottom:1em;"><img src="/images/ic_basics.png" style="float:left; display: inline-block;"/><h1 style="margin-left:1.8em">Basics</h1></div>
- - **26th of November, 6 hours of hacking, detailed agenda tba** 
+ - **26th of November, 6 hours of hacking, detailed agenda here** 
  - **Teams may be 1 to 4 people**
  - **bring your own laptop + power cord**
  - we'll take care of room, desk + chair, power + connectivity, food + supplies
@@ -29,17 +29,25 @@ To take part in the competition and win prices you need to comply with the follo
  - **New creation** - no ports of existing apps
  - **Make use of Firebase** - the more, the better
  - **Open source** - from the beginning
- - The final webapp (or APK or iOS app) **must be be stored in Firebase Hosting with a link in the submission form.**
+ - The final webapp (or APK or iOS app) **must be stored in Firebase Hosting with a link in the submission form.**
 
 The app idea and code belong to the team, and they can do whatever they want with it afterward. As a gesture of goodwill we would like for that repo to be publicly available for a while so we can promote it as an example.
 
 
 <div style="margin-top:4em; margin-bottom:1em;"><img src="/images/ic_thumb_yellow.png" style="float:left; display: inline-block;"/><h1 style="margin-left:1.8em">Jury</h1></div>
-The jury will have mixed expertise in Web, Android and iOS development and consist of (exact names tba):
+The jury will have mixed expertise in Web, Android and iOS development and consists of:
 
- - **2 Firebase engineers from Google**
+ - **4 Firebase engineers from Google**
+   - **[Doug Stevenson](/speakers/12)**
+   - **[Rachel Myers](/speakers/13)**
+   - **[Jonny Dimond](/speakers/20)**
+   - **[Thomas Steiner](/speakers/19)**
  - **1 Firebase GDE**
- - **2 community members from Hamburg**
+   - **[Juarez Filho](/speakers/5)**
+ - **3 community members from Hamburg**
+   - **[Thomas Jansen](/speakers/21)**
+   - **[André Tietz](/speakers/29)**
+   - **[Matthias Vogt](/speakers/30)**
 
 They will accompany the whole hackathon and also act as mentors to get you going. At the end of the hackathon they will judge projects according to the following criteria:
 
@@ -49,11 +57,17 @@ Crash Reporting and Analytics don't count toward number of components!
  - **5 points - Awesomeness factor**
 
 
-<div style="margin-top:4em; margin-bottom:1em;"><img src="/images/ic_cake.png" style="float:left; display: inline-block;"/><h1 style="margin-left:1.8em">Prices</h1></div>
-**tba** - (besides others, expect some talky hardware ;) )
+<div style="margin-top:4em; margin-bottom:1em;"><img src="/images/ic_cake.png" style="float:left; display: inline-block;"/><h1 style="margin-left:1.8em">Prizes</h1></div>
+ - ** 4 x [Google Home Mini](https://store.google.com/de/product/google_home_mini)**
 
+ - ** 8 x [Google Home](https://store.google.com/de/product/google_home)**
 
+ - ** 4 x [Google Wifi](https://store.google.com/de/product/google_wifi)**
+
+ - ** 4 x [Sphero app-controlled Star-Wars Droid](https://www.sphero.com/starwars)**
+
+ - ** 4 x [Google Pixel 2](https://store.google.com/de/product/pixel_2)**
 
 
 ----------
-... and of course: lots of Firebase SWAG for everyone hacking :D
+... a **Firebase Appfest T-Shirt** and lots of other Firebase SWAG **for everyone hacking** :D
