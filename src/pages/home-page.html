@@ -2,6 +2,7 @@
 
 <link rel="import" href="../behaviors/cascaded-behavior.html">
 <link rel="import" href="../behaviors/page-behavior.html">
+<link rel="import" href="../elements/the-end-block.html">
 <link rel="import" href="../elements/statistics-block.html">
 <link rel="import" href="../elements/featured-people.html">
 {% if callToAction %}
@@ -22,6 +23,7 @@
 
   <template>
 
+    <the-end-block app="{{app}}" cascaded></the-end-block>
     <statistics-block app="{{app}}" cascaded></statistics-block>
     <featured-people app="{{app}}" people="{{people}}" cascaded></featured-people>
     {% if callToAction %}
@@ -31,7 +33,7 @@
     {% if gallery %}
       <photo-block app="{{app}}" cascaded></photo-block>
     {% endif %}
-    <tickets-block app="{{app}}" cascaded></tickets-block>
+    <!--<tickets-block app="{{app}}" cascaded></tickets-block>-->
     <appfest-block app="{{app}}" cascaded></appfest-block>
     <map-block app="{{app}}" selected="{{selected}}" cascaded></map-block>
     <logos-block app="{{app}}" cascaded></logos-block>
